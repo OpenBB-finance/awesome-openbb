@@ -36,7 +36,7 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 ---
 
 **A-shares and H-shares dashboard for chinese market**: Financial Data Analysis of China A-share and Hong Kong Stocks
-- Open source: [https://github.com/finanalyzer/openbb-hka)(https://github.com/finanalyzer/openbb-hka)
+- Open source: [https://github.com/finanalyzer/openbb-hka](https://github.com/finanalyzer/openbb-hka)
 - Author: [kamathhrishi](https://github.com/kamathhrishi)
 - Case study: [blogpost](https://openbb.co/blog/extending-openbb-for-a-share-and-hong-kong-stock-analysis-with-akshare-and-tushare)
 
