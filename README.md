@@ -27,6 +27,23 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 
 ---
 
+**SEC Form D private placement filings**: Based on the data source streamed on [https://themarketcast.ai/](https://themarketcast.ai/).
+- Open source: [https://github.com/kamathhrishi/openbb_formd_filings](https://github.com/kamathhrishi/openbb_formd_filings)
+- Author: [kamathhrishi](https://github.com/kamathhrishi)
+
+<img width="600" alt="CleanShot 2025-11-08 at 14 19 22@2x" src="https://github.com/user-attachments/assets/fcdbc473-7513-4233-aaff-6d94fb694802" />
+
+---
+
+**A-shares and H-shares dashboard for chinese market**: Financial Data Analysis of China A-share and Hong Kong Stocks
+- Open source: [https://github.com/finanalyzer/openbb-hka)(https://github.com/finanalyzer/openbb-hka)
+- Author: [kamathhrishi](https://github.com/kamathhrishi)
+- Case study: [blogpost](https://openbb.co/blog/extending-openbb-for-a-share-and-hong-kong-stock-analysis-with-akshare-and-tushare)
+
+<img width="600" src="https://github.com/user-attachments/assets/08fe4a0e-650b-439f-84e5-c645d90bbb47" />
+
+---
+
 **CryptoBB**: Crypto analytics suite built on OpenBB.  
 - Open source: [github.com/MattMaximo/CryptoBB](https://github.com/MattMaximo/CryptoBB)  
 - APIs: Coingecko, Glassnode, Velodata, CCData  
@@ -49,6 +66,7 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 - Open source: [github.com/DidierRLopes/opening-bell-daily-openbb](https://github.com/DidierRLopes/opening-bell-daily-openbb)  
 - Hosted: [https://openbb-opening-bell-daily.fly.dev](https://openbb-opening-bell-daily.fly.dev)  
 - Author: [DidierRLopes](https://github.com/DidierRLopes)
+- Case study: [blogpost](https://openbb.co/blog/how-openbb-supercharges-research-for-independent-media-operators)
 
 <img width="600" src="https://github.com/user-attachments/assets/44a1589a-8160-47de-93f4-cffeef9f7fee" />
 
@@ -60,7 +78,6 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 - Author: [DidierRLopes](https://github.com/DidierRLopes)
 
 <img width="600" src="https://github.com/user-attachments/assets/631d68fc-1e1b-401b-bd61-05da49d4912f" />
-
 
 ---
 
