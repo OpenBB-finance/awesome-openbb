@@ -58,12 +58,51 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 
 ---
 
+**Databento**: Integrate real-time feeds from Databento
+- Open source: t.b.a
+- Author: [deeleeramone](https://github.com/deeleeramone)
+
+---
+
+**Harmoniq Insights**: Equities, bonds, commodities, currencies overview
+- Open source: [https://github.com/DidierRLopes/harmoniq-insights](https://github.com/DidierRLopes/harmoniq-insights)
+- Hosted: [https://harmoniq-insights.fly.dev](https://harmoniq-insights.fly.dev)
+- Author: [DidierRLopes](https://github.com/DidierRLopes)
+
+
 ### Mock Data
 
 This section highlights mock apps built for learning and prototyping inside the Workspace.
 
+**Portfolio Risk Workflow**: Demonstrates how to render a list of emails in an index widget and display content in a markdown widget when selected.  
+- Open source: t.b.a.
+- Hosted: [https://openbb-demo-risk.fly.dev](https://openbb-demo-risk.fly.dev)
+- Author: [deeleeramone](https://github.com/deeleeramone)
+
+---
+
+**DTCC Trade Repository**: Highlights how to build a DTCC app with different AgGrid charts.
+- Open source: t.b.a.
+- Hosted: [https://dtcc-trade-repo.fly.dev](https://dtcc-trade-repo.fly.dev)
+- Author: [deeleeramone](https://github.com/deeleeramone)
+
+---
+
 **Mock Email App**: Demonstrates how to render a list of emails in an index widget and display content in a markdown widget when selected.  
 - Open source: [github.com/DidierRLopes/openbb-mock-email-app](https://github.com/DidierRLopes/openbb-mock-email-app)  
+- Author: [DidierRLopes](https://github.com/DidierRLopes)
+
+---
+
+**DTCC OpenBB**: Integration concept connecting DTCC data pipelines into OpenBB for workflow and visualization mockups.  
+- Open source: [github.com/DidierRLopes/dtcc-openbb](https://github.com/DidierRLopes/dtcc-openbb)  
+- Hosted: [https://dtcc-trade-repo.fly.dev](https://dtcc-trade-repo.fly.dev)
+- Author: [DidierRLopes](https://github.com/DidierRLopes)
+
+---
+
+**Cmore OpenBB App Mockup**: Concept app showcasing how an ESG analytics dashboard can be built in OpenBB Workspace.  
+- Open source: [github.com/DidierRLopes/cmore-openbb-app-mockup](https://github.com/DidierRLopes/cmore-openbb-app-mockup)  
 - Author: [DidierRLopes](https://github.com/DidierRLopes)
 
 
