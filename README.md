@@ -81,6 +81,14 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 
 ---
 
+**TetadataBB**: Trading Economics data backend.
+- Open source: [https://github.com/jlokos/tedata_openbb_backend](https://github.com/jlokos/tedata_openbb_backend)
+- Author: [jlokos](https://github.com/jlokos)
+
+<img width="600" src="https://github.com/user-attachments/assets/69807d6e-5f73-469d-876d-b1e63b1859de" />
+
+---
+
 **Tao App**: Built around the TAO ecosystem.  
 - Open source: [github.com/jose-donato/openbb-app-tao](https://github.com/jose-donato/openbb-app-tao/tree/main)  
 - Hosted: [https://openbb-app-tao.jose-donato.workers.dev](https://openbb-app-tao.jose-donato.workers.dev)  
