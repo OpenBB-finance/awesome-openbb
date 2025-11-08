@@ -105,6 +105,23 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 
 <img width="600" src="https://github.com/user-attachments/assets/887cb10b-1073-416d-8ac4-26c52b7be982" />
 
+---
+
+**Etherscan Portfolio Viewer**: Use markdown widget to validate address and groups with all other widgets (with address param hidden).
+- Open source: [https://github.com/DidierRLopes/etherscan-app-with-portfolio-filtering](https://github.com/DidierRLopes/etherscan-app-with-portfolio-filtering)
+- Author: [DidierRLopes](https://github.com/DidierRLopes)
+
+<img width="600" src="https://github.com/user-attachments/assets/53c56c95-1960-4bc6-a789-bc01a310a597" />
+
+---
+
+**FRED App with API key header required**: Shows how to rely on API key set by the user when adding the backend.
+- Open source: [https://github.com/DidierRLopes/fred-simple-app-with-api-key-custom-header](https://github.com/DidierRLopes/fred-simple-app-with-api-key-custom-header)
+- API required: Set `X-FRED-API-KEY` on the Auth header from [FRED](https://fred.stlouisfed.org/docs/api/api_key.html)
+- Author: [DidierRLopes](https://github.com/DidierRLopes)
+
+<img width="600" src="https://github.com/user-attachments/assets/e6e31c67-781f-419b-91d4-e8d7a081b0ec" />
+
 
 ### Mock Data
 
