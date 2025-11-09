@@ -44,6 +44,15 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 
 ---
 
+**Zeitgeist**: From prediction markets to Macro report using AI.
+- Open source: [https://github.com/DidierRLopes/obb-zeitgeist](https://github.com/DidierRLopes/obb-zeitgeist)
+- APIs: OpenAI, GNEWS
+- Author: [DidierRLopes](https://github.com/DidierRLopes)
+
+<img width="600" src="https://github.com/user-attachments/assets/272d49b0-8571-4b4c-b08e-e06595cccfb6" />
+
+---
+
 **CryptoBB**: Crypto analytics suite built on OpenBB.  
 - Open source: [github.com/MattMaximo/CryptoBB](https://github.com/MattMaximo/CryptoBB)  
 - APIs: Coingecko, Glassnode, Velodata, CCData  
