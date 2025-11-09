@@ -166,6 +166,9 @@ This section highlights mock apps built for learning and prototyping inside the 
 - Open source: [github.com/DidierRLopes/openbb-mock-email-app](https://github.com/DidierRLopes/openbb-mock-email-app)  
 - Author: [DidierRLopes](https://github.com/DidierRLopes)
 
+<img width="600" src="https://github.com/user-attachments/assets/e73d1987-4312-4dbe-a525-9a6d5000e84e" />
+
+
 ---
 
 **Cmore OpenBB App Mockup**: Concept app showcasing how an ESG analytics dashboard can be built in OpenBB Workspace.  
