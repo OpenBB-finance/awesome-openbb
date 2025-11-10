@@ -107,8 +107,8 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 
 ---
 
-**Databento**: Integrate real-time feeds from Databento
-- Open source: t.b.a
+**Databento CME Globex MDP 3.0**: Integrate real-time & historical futures feeds from Databento.
+- Open source: [https://github.com/deeleeramone/openbb-cme-databento](https://github.com/deeleeramone/openbb-cme-databento)
 - Author: [deeleeramone](https://github.com/deeleeramone)
 
 <img width="600" src="https://github.com/user-attachments/assets/df99f05d-a090-4a36-8a6f-aed144d2e5ea" />
