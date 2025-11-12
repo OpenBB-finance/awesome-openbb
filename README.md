@@ -144,8 +144,8 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 
 This section highlights mock apps built for learning and prototyping inside the Workspace.
 
-**Portfolio Risk Workflow**: Demonstrates how to render a list of emails in an index widget and display content in a markdown widget when selected.  
-- Open source: t.b.a.
+**Portfolio Risk Workflow**: Perform attribution analysis using Fama-French Factors and mock portfolio holdings.
+- Open source: [https://github.com/deeleeramone/demo-risk](https://github.com/deeleeramone/demo-risk)
 - Hosted: [https://openbb-demo-risk.fly.dev](https://openbb-demo-risk.fly.dev)
 - Author: [deeleeramone](https://github.com/deeleeramone)
 
@@ -153,8 +153,8 @@ This section highlights mock apps built for learning and prototyping inside the 
 
 ---
 
-**DTCC Trade Repository**: Highlights how to build a DTCC app with different AgGrid charts.
-- Open source: t.b.a.
+**DTCC Trade Repository**: Highlights how to build with different AgGrid charts, using canned DTCC Trade Repository data.
+- Open source: [https://github.com/deeleeramone/demo-dtcc-trade-reop](https://github.com/deeleeramone/demo-dtcc-trade-reop)
 - Hosted: [https://dtcc-trade-repo.fly.dev](https://dtcc-trade-repo.fly.dev)
 - Author: [deeleeramone](https://github.com/deeleeramone)
 
