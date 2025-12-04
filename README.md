@@ -2,6 +2,9 @@
 
 A curated list of community-built OpenBB apps, data connectors, and integrations.
 
+- [Applications](#applications)
+- [Agents](#agents)
+
 ## Applications
 
 ### Live data
@@ -184,4 +187,10 @@ This section highlights mock apps built for learning and prototyping inside the 
 - Open source: [github.com/DidierRLopes/cmore-openbb-app-mockup](https://github.com/DidierRLopes/cmore-openbb-app-mockup)  
 - Author: [DidierRLopes](https://github.com/DidierRLopes)
 
+
+## Agents
+
+**Open Router agent**: OpenRouter agent with features such as: Access to data from the dashboard and in context; Create table and chart artifact; Widget citations; Step-by-step reasoning; and MCP tool use.
+- Open source: [https://github.com/DidierRLopes/openbb-open-router-agent](https://github.com/DidierRLopes/openbb-open-router-agent)
+- Author: [DidierRLopes](https://github.com/DidierRLopes)
 
