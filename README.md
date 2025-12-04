@@ -194,3 +194,7 @@ This section highlights mock apps built for learning and prototyping inside the 
 - Open source: [https://github.com/DidierRLopes/openbb-open-router-agent](https://github.com/DidierRLopes/openbb-open-router-agent)
 - Author: [DidierRLopes](https://github.com/DidierRLopes)
 
+<img width="600" alt="CleanShot 2025-11-23 at 19 01 49@2x" src="https://github.com/user-attachments/assets/01b34238-9970-4bb4-9eb6-eb4c62f99e9e" />
+
+<img width="600" alt="CleanShot 2025-11-23 at 19 05 07@2x" src="https://github.com/user-attachments/assets/d08bd665-ce57-46ec-adad-c10b603260ec" />
+
