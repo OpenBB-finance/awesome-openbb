@@ -2,7 +2,10 @@
 
 A curated list of community-built OpenBB apps, data connectors, and integrations.
 
+**Table of Content**
 - [Applications](#applications)
+  - [Live data](#live-data)
+  - [Mock Data](mock-data)
 - [Agents](#agents)
 
 ## Applications
