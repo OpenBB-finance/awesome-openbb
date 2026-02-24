@@ -201,3 +201,9 @@ This section highlights mock apps built for learning and prototyping inside the 
 
 <img width="600" alt="CleanShot 2025-11-23 at 19 05 07@2x" src="https://github.com/user-attachments/assets/d08bd665-ce57-46ec-adad-c10b603260ec" />
 
+---
+
+**RAG Financial Research Agent**: Indexes SEC filings, earnings transcripts, and research reports, then combines retrieved context with live OpenBB widget data to answer financial research questions. Multi-LLM support (OpenAI, Ollama, Azure).
+- Open source: [github.com/sandole/openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent)
+- Author: [sandole](https://github.com/sandole)
+
