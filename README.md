@@ -195,7 +195,7 @@ This section highlights mock apps built for learning and prototyping inside the 
 **Adanos Stock Sentiment**: Stock sentiment data from Reddit (50+ subreddits), X/Twitter, and Polymarket prediction markets. Provides buzz scores, sentiment analysis (-1.0 to +1.0), trending stocks, and cross-platform comparison. Available as an OpenBB provider extension (`pip install openbb-adanos`).
 - Open source: [github.com/adanos-software/openbb-adanos](https://github.com/adanos-software/openbb-adanos)
 - PyPI: [openbb-adanos](https://pypi.org/project/openbb-adanos/)
-- API required: Set `adanos_api_key` in OpenBB credentials — free keys at [api.adanos.org](https://api.adanos.org)
+- API required: Set `adanos_api_key` in OpenBB credentials — free keys at [adanos.org/reddit-stock-sentiment#api](https://adanos.org/reddit-stock-sentiment#api)
 - Author: [alexander-schneider](https://github.com/alexander-schneider)
 
 
