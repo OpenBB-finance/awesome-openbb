@@ -198,6 +198,8 @@ This section highlights mock apps built for learning and prototyping inside the 
 - API required: Set `adanos_api_key` in OpenBB credentials — free keys at [adanos.org/reddit-stock-sentiment#api](https://adanos.org/reddit-stock-sentiment#api)
 - Author: [alexander-schneider](https://github.com/alexander-schneider)
 
+<img width="600" src="adanos-screenshot.png" />
+
 
 ## Agents
 
