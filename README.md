@@ -186,9 +186,17 @@ This section highlights mock apps built for learning and prototyping inside the 
 
 ---
 
-**Cmore OpenBB App Mockup**: Concept app showcasing how an ESG analytics dashboard can be built in OpenBB Workspace.  
-- Open source: [github.com/DidierRLopes/cmore-openbb-app-mockup](https://github.com/DidierRLopes/cmore-openbb-app-mockup)  
+**Cmore OpenBB App Mockup**: Concept app showcasing how an ESG analytics dashboard can be built in OpenBB Workspace.
+- Open source: [github.com/DidierRLopes/cmore-openbb-app-mockup](https://github.com/DidierRLopes/cmore-openbb-app-mockup)
 - Author: [DidierRLopes](https://github.com/DidierRLopes)
+
+---
+
+**Adanos Stock Sentiment**: Stock sentiment data from Reddit (47 subreddits), X/Twitter, and Polymarket prediction markets. Provides buzz scores, sentiment analysis (-1.0 to +1.0), trending stocks, and cross-platform comparison. Available as an OpenBB provider extension (`pip install openbb-adanos`).
+- Open source: [github.com/adanos-software/openbb-adanos](https://github.com/adanos-software/openbb-adanos)
+- PyPI: [openbb-adanos](https://pypi.org/project/openbb-adanos/)
+- API required: Set `adanos_api_key` in OpenBB credentials — free keys at [api.adanos.org](https://api.adanos.org)
+- Author: [alexander-schneider](https://github.com/alexander-schneider)
 
 
 ## Agents
