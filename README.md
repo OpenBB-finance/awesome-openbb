@@ -192,10 +192,12 @@ This section highlights mock apps built for learning and prototyping inside the 
 
 ---
 
-**Adanos Stock Sentiment**: Stock sentiment data from Reddit (50+ subreddits), X/Twitter, and Polymarket prediction markets. Provides buzz scores, sentiment analysis (-1.0 to +1.0), trending stocks, and cross-platform comparison. Available as an OpenBB provider extension (`pip install openbb-adanos`).
+**Adanos Stock Sentiment**: OpenBB extension for stock sentiment data from Reddit, X/Twitter, news, and Polymarket. Includes platform-specific routes for trending stocks, per-ticker sentiment snapshots, comparisons, search, and explainers.
 - Open source: [github.com/adanos-software/openbb-adanos](https://github.com/adanos-software/openbb-adanos)
 - PyPI: [openbb-adanos](https://pypi.org/project/openbb-adanos/)
-- API required: Set `adanos_api_key` in OpenBB credentials — free keys at [adanos.org/reddit-stock-sentiment#api](https://adanos.org/reddit-stock-sentiment#api)
+- Install: `pip install openbb-adanos`
+- OpenBB usage: `obb.adanos.reddit.trending(days=2, limit=20)` or `obb.adanos.x.compare(symbols="AAPL,TSLA,MSFT", days=7)`
+- API required: Set `adanos_api_key` in OpenBB credentials or `OPENBB_ADANOS_API_KEY` in the environment
 - Author: [alexander-schneider](https://github.com/alexander-schneider)
 
 <img width="600" src="adanos-screenshot.png" />
@@ -216,4 +218,3 @@ This section highlights mock apps built for learning and prototyping inside the 
 **RAG Financial Research Agent**: Indexes SEC filings, earnings transcripts, and research reports, then combines retrieved context with live OpenBB widget data to answer financial research questions. Multi-LLM support (OpenAI, Ollama, Azure).
 - Open source: [github.com/sandole/openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent)
 - Author: [sandole](https://github.com/sandole)
-
