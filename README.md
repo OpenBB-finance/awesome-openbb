@@ -213,3 +213,5 @@ This section highlights mock apps built for learning and prototyping inside the 
 - Open source: [github.com/tawiza/openbb-french-territorial-intelligence](https://github.com/tawiza/openbb-french-territorial-intelligence)
 - Author: [tawiza](https://github.com/tawiza)
 
+<img width="2172" height="1150" alt="CleanShot 2026-04-13 at 16 38 13@2x" src="https://github.com/user-attachments/assets/8e98d3a6-bce4-4213-8e86-ea44bf8d4dba" />
+
