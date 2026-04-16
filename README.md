@@ -218,3 +218,12 @@ This section highlights mock apps built for learning and prototyping inside the 
 **RAG Financial Research Agent**: Indexes SEC filings, earnings transcripts, and research reports, then combines retrieved context with live OpenBB widget data to answer financial research questions. Multi-LLM support (OpenAI, Ollama, Azure).
 - Open source: [github.com/sandole/openbb-rag-financial-research-agent](https://github.com/sandole/openbb-rag-financial-research-agent)
 - Author: [sandole](https://github.com/sandole)
+
+---
+
+**French Territorial Intelligence**: Cross-references three zero-auth French government APIs (SIRENE, DVF, Geo) to produce territorial intelligence insights. Computes derived indicators (enterprise density, affordability index, economic intensity) by combining data across sources. Extensible DataSource protocol.
+- Open source: [github.com/tawiza/openbb-french-territorial-intelligence](https://github.com/tawiza/openbb-french-territorial-intelligence)
+- Author: [tawiza](https://github.com/tawiza)
+
+<img width="2172" height="1150" alt="CleanShot 2026-04-13 at 16 38 13@2x" src="https://github.com/user-attachments/assets/8e98d3a6-bce4-4213-8e86-ea44bf8d4dba" />
+
