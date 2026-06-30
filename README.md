@@ -41,6 +41,19 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 
 ---
 
+**Disclosure Alpha**: Deterministic SEC filing analytics for 10-K and 10-Q — parse, score, diff. No LLM required. OpenBB Workspace backend with a Company widget (overall score, components, active flags, section changes).
+- Open source: [github.com/alwank/disclosure-alpha](https://github.com/alwank/disclosure-alpha)
+- PyPI: [disclosure-alpha](https://pypi.org/project/disclosure-alpha/)
+- Install: `pip install "disclosure-alpha[api]"` then `disclosure-alpha-api`
+- OpenBB usage: Connect backend at `http://127.0.0.1:8000` → **My Apps → Disclosure Alpha → Company**
+- Docs: [OpenBB quickstart](https://disclosure-alpha.readthedocs.io/en/latest/getting-started/quickstart-openbb.html)
+- API required: Set `SEC_USER_AGENT` for live EDGAR scoring (`demo=1` works without EDGAR)
+- Author: [alwank](https://github.com/alwank)
+
+<img width="600" alt="Disclosure Alpha Company widget in OpenBB Workspace" src="disclosure-alpha-screenshot.png" />
+
+---
+
 **A-shares and H-shares dashboard for chinese market**: Financial Data Analysis of China A-share and Hong Kong Stocks
 - Open source: [https://github.com/finanalyzer/openbb-hka](https://github.com/finanalyzer/openbb-hka)
 - Author: [finanalyzer](https://github.com/finanalyzer)
