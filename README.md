@@ -145,6 +145,16 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 
 <img width="600" src="https://github.com/user-attachments/assets/e6e31c67-781f-419b-91d4-e8d7a081b0ec" />
 
+---
+
+**openbb-sugra**: Sugra data provider extension for OpenBB. Adds one-key access to market, macro, fixed income, ETF, crypto, news, regulatory, derivatives, and maritime datasets through the OpenBB `obb.*` layer.
+- Open source: [github.com/Sugra-Systems/openbb-sugra](https://github.com/Sugra-Systems/openbb-sugra)
+- PyPI: [openbb-sugra](https://pypi.org/project/openbb-sugra/)
+- Install: `pip install openbb-sugra`
+- OpenBB usage: `obb.equity.price.historical("AAPL", provider="sugra")` or `obb.economy.fred_series("GDP", provider="sugra")`
+- API required: Set `sugra_api_key` in OpenBB credentials or `OPENBB_SUGRA_API_KEY` in the environment
+- Author: [Sugra Systems](https://github.com/Sugra-Systems)
+
 
 ### Mock Data
 
