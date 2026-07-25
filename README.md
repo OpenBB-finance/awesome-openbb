@@ -146,6 +146,16 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 <img width="600" src="https://github.com/user-attachments/assets/e6e31c67-781f-419b-91d4-e8d7a081b0ec" />
 
 
+---
+
+**CryptoCompare**: Real-time and historical cryptocurrency market data via the CryptoCompare (CoinDesk) API.
+- Open source: [github.com/xieyi900/openbb-cryptocompare](https://github.com/xieyi900/openbb-cryptocompare)
+- PyPI: [openbb-cryptocompare](https://pypi.org/project/openbb-cryptocompare/)
+- Install: `pip install openbb-cryptocompare`
+- OpenBB usage: `obb.crypto.quote(symbol="BTC", provider="cryptocompare")`
+- API required: Set `cryptocompare_api_key` in OpenBB credentials or `OPENBB_CRYPTOCOMPARE_API_KEY` in the environment
+- Author: [xieyi900](https://github.com/xieyi900)
+
 ### Mock Data
 
 This section highlights mock apps built for learning and prototyping inside the Workspace.
