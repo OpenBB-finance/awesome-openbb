@@ -6,6 +6,7 @@ A curated list of community-built OpenBB apps, data connectors, and integrations
 - [Applications](#applications)
   - [Live data](#live-data)
   - [Mock Data](mock-data)
+- [Router Extensions](#router-extensions)
 - [Agents](#agents)
 
 ## Applications
@@ -201,6 +202,16 @@ This section highlights mock apps built for learning and prototyping inside the 
 - Author: [alexander-schneider](https://github.com/alexander-schneider)
 
 <img width="600" src="adanos-screenshot.png" />
+
+
+## Router Extensions
+
+**LiquiLens Evidence Carrier**: Offline, read-only OpenBB router extension that verifies and projects caller-supplied LiquiLens Evidence Carrier JSON.
+- Open source: [github.com/beepboop2025/liquilens-evidence-carrier/integrations/openbb](https://github.com/beepboop2025/liquilens-evidence-carrier/tree/05a77927496bf22c8bfdb7cbce2d6f43054911d0/integrations/openbb)
+- Install: `python -m pip install "git+https://github.com/beepboop2025/liquilens-evidence-carrier.git@05a77927496bf22c8bfdb7cbce2d6f43054911d0#subdirectory=integrations/openbb"`, then run `openbb-build`
+- OpenBB usage: `obb.liquilens.verify(data={"carrier": carrier_json})`
+- External API/data source: None. The extension does not fetch market data, disclose carrier payloads, send telemetry, or claim financial authority.
+- Author: [beepboop2025](https://github.com/beepboop2025)
 
 
 ## Agents
