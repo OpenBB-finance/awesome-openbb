@@ -145,6 +145,16 @@ The hosted solutions aren't hosted by OpenBB and can be disabled by the author o
 
 <img width="600" src="https://github.com/user-attachments/assets/e6e31c67-781f-419b-91d4-e8d7a081b0ec" />
 
+---
+
+**Financial Evidence**: Read-only OpenBB router for separately sourced public money-market, capital-market, China-economy, bank-risk, and market-liquidity evidence from LiquiLens, Undertow, Seiche, and Palimpsest.
+- Open source: [github.com/beepboop2025/financial-evidence-skills](https://github.com/beepboop2025/financial-evidence-skills)
+- Release: [v0.1.7](https://github.com/beepboop2025/financial-evidence-skills/releases/tag/v0.1.7)
+- Install: `python -m pip install "financial-evidence[openbb] @ https://github.com/beepboop2025/financial-evidence-skills/releases/download/v0.1.7/financial_evidence-0.1.7-py3-none-any.whl"`, then run `openbb-build`
+- OpenBB usage: `obb.financial_evidence.routes(topics="money-market")` or `obb.financial_evidence.fetch(topics="money-market", max_bytes=1048576, timeout=10)`
+- Workspace research desk: [source-install guide](https://github.com/beepboop2025/financial-evidence-skills/blob/main/integrations/openbb/README.md) for seven cited datasets, eight widgets, benchmark-history charts, a REST API and eight read-only MCP tools. The hosted Research Desk is independently versioned at 1.1.3; the optional private runtime and Operations 1.0.3 have a separate [connection guide](https://liquilens.in/agents/infrastructure/).
+- API required: None. The extension uses fixed public HTTPS routes and preserves unavailable sources instead of converting them to zero.
+- Author: [beepboop2025](https://github.com/beepboop2025)
 
 ### Mock Data
 
